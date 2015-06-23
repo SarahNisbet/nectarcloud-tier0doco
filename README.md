@@ -88,7 +88,7 @@ github.  This is because we use Gerrit to do the peer review and checking of
 content _before it is uploaded_ to github.  That may seem odd, but github
 doesn't offer a sophisticated enough review system, so for that we use Gerrit.
  Gerrit sits between you and github.  To make it a little clearer, documentation
- (or content) in this project follows this workflow;
+ (or content) in this project follows this workflow:
 
      +-----------------+
      |                 |                                   Content is visible
